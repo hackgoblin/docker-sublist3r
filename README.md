@@ -1,2 +1,2 @@
 # docker-sublist3r
-This is a docerized version of Sublist3r
+This is a dockerized version of Sublist3r
